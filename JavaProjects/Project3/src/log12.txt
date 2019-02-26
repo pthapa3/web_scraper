@@ -1,0 +1,25 @@
+2018-05-06T13:34:30.520-05:00[America/Chicago] teardrop attack (alert ip any any -> any any (msg: "teardrop attack"; sid: "4";))
+[udp](60 b) SID: 4 [2 fragments]
+Source MAC: 00-30-80-E2-2D-16
+Destination MAC: 00-40-F4-00-08-0F
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 24
+Data Length: 4
+Identification: 242
+FlagFrag Binary: 0000000000000011
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 3
+First octet: 24
+Last octet: 28
+TTL: 63
+Payload Start: 34
+Protocol: UDP
+Source Address: /129.244.125.194
+Destination Address: /129.244.73.185
+Number of options: 0
+Source Port: 4153
+Destination Port: 61045
+

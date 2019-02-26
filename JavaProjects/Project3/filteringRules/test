@@ -1,0 +1,12 @@
+alert tcp 192.168.36.30/24 any -> 192.168.36.32/24 111 (content: "|00 01 85 a5|"; msg: "external mountd access";)
+
+alert tcp any any -> 192.168.1.0/24 any (flags: S; msg: "SYN packet";)
+
+
+alert tcp 129.244.0.0/16 43:94 <> 192.168.1.0/24 :23
+
+
+alert tcp 129.244.0.0/16 any <> 192.168.1.0/24 23
+alert tcp any any -> 192.168.1.0/24 139 (msg: "DOS Winnuke attack"; flags: U+;)
+
+alert ip 129.244.142.73 80 <> any any

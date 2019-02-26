@@ -1,0 +1,1 @@
+alert udp any any -> any any (msg: "jolt udp attack!"; fragoffset: 8190;)

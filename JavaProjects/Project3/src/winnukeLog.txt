@@ -1,0 +1,3975 @@
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-93-F2
+Destination MAC: 00-C0-4F-8D-99-31
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 57244
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.66
+Destination Address: /192.168.1.14
+Number of options: 0
+Source Port: 26990
+Destination Port: 25860
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-93-F2
+Destination MAC: 00-C0-4F-8D-99-31
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 57244
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.66
+Destination Address: /192.168.1.14
+Number of options: 0
+Source Port: 34808
+Destination Port: 53
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-93-F2
+Destination MAC: 00-C0-4F-8D-99-31
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 57244
+FlagFrag Binary: 0000000000000101
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.66
+Destination Address: /192.168.1.14
+Number of options: 0
+Source Port: 25956
+Destination Port: 29952
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-93-F2
+Destination MAC: 00-C0-4F-8D-99-31
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 57244
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.66
+Destination Address: /192.168.1.14
+Number of options: 0
+Source Port: 1653
+Destination Port: 29813
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-93-F2
+Destination MAC: 00-C0-4F-8D-99-31
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 57244
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.66
+Destination Address: /192.168.1.14
+Number of options: 0
+Source Port: 0
+Destination Port: 0
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-93-F2
+Destination MAC: 00-C0-4F-8D-99-31
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 57244
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.66
+Destination Address: /192.168.1.14
+Number of options: 0
+Source Port: 58893
+Destination Port: 256
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](82 b) SID: 1 [6 fragments]
+Source MAC: 00-C0-4F-8D-93-F2
+Destination MAC: 00-C0-4F-8D-99-31
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 57244
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.66
+Destination Address: /192.168.1.14
+Number of options: 0
+Source Port: 34808
+Destination Port: 53
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000000111
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 20864
+Destination Port: 4
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 25956
+Destination Port: 29952
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 1653
+Destination Port: 29813
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 24
+Data Length: 4
+Identification: 59847
+FlagFrag Binary: 0000000000001100
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 12
+First octet: 96
+Last octet: 100
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 49320
+Destination Port: 270
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 49164
+Destination Port: 1
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 26990
+Destination Port: 25860
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 53
+Destination Port: 34808
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000001011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 11
+First octet: 88
+Last octet: 96
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 1
+Destination Port: 1
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 58893
+Destination Port: 34176
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 1
+Destination Port: 1
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000001010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 10
+First octet: 80
+Last octet: 88
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 28526
+Destination Port: 49171
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000001000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 8
+First octet: 64
+Last octet: 72
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 49171
+Destination Port: 2
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000001001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 9
+First octet: 72
+Last octet: 80
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 20864
+Destination Port: 8
+
+[Thu May 03 12:30:51 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](134 b) SID: 2 [13 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 59847
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 53
+Destination Port: 34808
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 16466
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 52578
+Destination Port: 53
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 0
+Destination Port: 0
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 21
+Data Length: 1
+Identification: 61363
+FlagFrag Binary: 0000000000001001
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 9
+First octet: 72
+Last octet: 73
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 2560
+Destination Port: 0
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 29295
+Destination Port: 26469
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000000111
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 448
+Destination Port: 3072
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000001000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 8
+First octet: 64
+Last octet: 72
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 14
+Destination Port: 4096
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 28533
+Destination Port: 28721
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 53
+Destination Port: 52578
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 57410
+Destination Port: 34176
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 869
+Destination Port: 25717
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 25350
+Destination Port: 30068
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](107 b) SID: 2 [10 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 61363
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 53
+Destination Port: 52578
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 16466
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 869
+Destination Port: 25717
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 16466
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 25350
+Destination Port: 30068
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 16466
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 0
+Destination Port: 0
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 16466
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 57410
+Destination Port: 256
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 16466
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 29295
+Destination Port: 26469
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 16466
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 28533
+Destination Port: 28721
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 21
+Data Length: 1
+Identification: 16466
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 57
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 256
+Destination Port: 0
+
+[Thu May 03 12:30:52 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](91 b) SID: 1 [8 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 16466
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 52578
+Destination Port: 53
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 18
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 18
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 18
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 18
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 18
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 19
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 19
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 19
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54948
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 18
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 46
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 18
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 18
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 20
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 20
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 20
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54949
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 20
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 19
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 19
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 19
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 19
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 47
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 19
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 21
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 21
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 21
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 21
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 21
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 21
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 21
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 21
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 49
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 20
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54950
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 20
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 20
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 20
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 23
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 23
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 23
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 23
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 23
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 23
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54952
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 22
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 22
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 22
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 22
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 22
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54948
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 25
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 53
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54954
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 24
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 22
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 24
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 24
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 19
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 25
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 22
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54951
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 22
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 50
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 24
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 24
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 24
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 52
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 24
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 23
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 24
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54953
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 20
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54950
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 24
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 23
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 51
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 27
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54959
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 27
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54951
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 27
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 27
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 27
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 27
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 55
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 23
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 27
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 27
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54957
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 26
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 26
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54953
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 26
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 26
+FlagFrag Binary: 0010000000000001
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 1
+First octet: 8
+Last octet: 16
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 54
+Code: 164
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 25
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 26
+FlagFrag Binary: 0010000000000100
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 4
+First octet: 32
+Last octet: 40
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 24
+Code: 25
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 25
+FlagFrag Binary: 0010000000000110
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 6
+First octet: 48
+Last octet: 56
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 40
+Code: 41
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 25
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 5 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54955
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 26
+FlagFrag Binary: 0010000000000101
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 5
+First octet: 40
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 32
+Code: 33
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 26
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 25
+FlagFrag Binary: 0010000000000011
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 3
+First octet: 24
+Last octet: 32
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 16
+Code: 17
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 26
+FlagFrag Binary: 0000000000000111
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 7
+First octet: 56
+Last octet: 64
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 48
+Code: 49
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54949
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54952
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 2 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 18
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 22
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 25
+FlagFrag Binary: 0010000000000010
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 2
+First octet: 16
+Last octet: 24
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 9
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 2 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 21
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 25
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 2 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 27
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54959
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 26
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54957
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 2 [8 fragments]
+Source MAC: 00-04-76-3B-0C-E7
+Destination MAC: 00-E0-81-25-C0-8B
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 28
+Data Length: 8
+Identification: 25
+FlagFrag Binary: 0010000000000000
+Flags: 001
+Last Fragment?: false
+Fragment Offset: 0
+First octet: 0
+Last octet: 8
+TTL: 64
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.32
+Destination Address: /192.168.1.75
+Number of options: 0
+Type: 8
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54955
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:54 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[icmp](98 b) SID: 1 [1 fragments]
+Source MAC: 00-E0-81-25-C0-8B
+Destination MAC: 00-04-76-3B-0C-E7
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 84
+Data Length: 64
+Identification: 54954
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 64
+TTL: 128
+Payload Start: 34
+Protocol: ICMP
+Source Address: /192.168.1.75
+Destination Address: /192.168.1.32
+Number of options: 0
+Type: 0
+Code: 0
+
+[Thu May 03 12:30:56 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](82 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-93-F2
+Destination MAC: 00-C0-4F-8D-99-31
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 68
+Data Length: 48
+Identification: 57244
+FlagFrag Binary: 0100000000000000
+Flags: 010
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.66
+Destination Address: /192.168.1.14
+Number of options: 0
+Source Port: 34808
+Destination Port: 53
+
+[Thu May 03 12:30:56 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](134 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 120
+Data Length: 100
+Identification: 59847
+FlagFrag Binary: 0100000000000000
+Flags: 010
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 100
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 53
+Destination Port: 34808
+
+[Thu May 03 12:30:56 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](82 b) SID: 1 [1 fragments]
+Source MAC: 00-C0-4F-8D-93-F2
+Destination MAC: 00-C0-4F-8D-99-31
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 68
+Data Length: 48
+Identification: 57244
+FlagFrag Binary: 0100000000000000
+Flags: 010
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 48
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.66
+Destination Address: /192.168.1.14
+Number of options: 0
+Source Port: 34808
+Destination Port: 53
+
+[Thu May 03 12:30:56 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](134 b) SID: 1 [1 fragments]
+Source MAC: 00-C0-4F-8D-99-31
+Destination MAC: 00-C0-4F-8D-93-F2
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 120
+Data Length: 100
+Identification: 59847
+FlagFrag Binary: 0100000000000000
+Flags: 010
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 100
+TTL: 64
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.14
+Destination Address: /192.168.1.66
+Number of options: 0
+Source Port: 53
+Destination Port: 34808
+
+[Thu May 03 12:31:00 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](107 b) SID: 5 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 93
+Data Length: 73
+Identification: 61363
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 73
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 53
+Destination Port: 52578
+
+[Thu May 03 12:31:00 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](91 b) SID: 5 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 77
+Data Length: 57
+Identification: 16466
+FlagFrag Binary: 0100000000000000
+Flags: 010
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 57
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 52578
+Destination Port: 53
+
+[Thu May 03 12:31:00 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](91 b) SID: 1 [1 fragments]
+Source MAC: 08-00-20-AB-D4-A4
+Destination MAC: 00-C0-4F-58-D9-94
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 77
+Data Length: 57
+Identification: 16466
+FlagFrag Binary: 0100000000000000
+Flags: 010
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 57
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.22
+Destination Address: /192.168.1.46
+Number of options: 0
+Source Port: 52578
+Destination Port: 53
+
+[Thu May 03 12:31:00 CDT 2018] winnuke attack (alert ip any any -> any any (msg: "winnuke attack"; flags: "U+";))
+[udp](107 b) SID: 1 [1 fragments]
+Source MAC: 00-C0-4F-58-D9-94
+Destination MAC: 08-00-20-AB-D4-A4
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 93
+Data Length: 73
+Identification: 61363
+FlagFrag Binary: 0000000000000000
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 0
+First octet: 0
+Last octet: 73
+TTL: 128
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.46
+Destination Address: /192.168.1.22
+Number of options: 0
+Source Port: 53
+Destination Port: 52578
+

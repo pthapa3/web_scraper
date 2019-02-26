@@ -1,0 +1,2 @@
+Main-Class: Project05Test
+Sealed: true

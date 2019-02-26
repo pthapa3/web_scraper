@@ -1,0 +1,25 @@
+Fri May 04 16:49:17 CDT 2018 jolt udp attack (alert udp any any -> any any (msg: "jolt udp attack"; fragoffset: "8190";))
+[udp](60 b) SID: 5 [1 fragments]
+Source MAC: 00-01-03-CD-5E-2D
+Destination MAC: 00-01-03-CD-5E-15
+EtherType: IPv4
+Header Length: 20
+TOS: 0
+Total Length: 29
+Data Length: 9
+Identification: 1109
+FlagFrag Binary: 0001111111111110
+Flags: 000
+Last Fragment?: true
+Fragment Offset: 8190
+First octet: 65520
+Last octet: 65529
+TTL: 255
+Payload Start: 34
+Protocol: UDP
+Source Address: /192.168.1.20
+Destination Address: /192.168.1.10
+Number of options: 0
+Source Port: 1235
+Destination Port: 80
+

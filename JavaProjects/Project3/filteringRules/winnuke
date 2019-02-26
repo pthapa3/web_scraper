@@ -1,0 +1,1 @@
+alert ip any any -> any any (msg: "winnuke attack!"; flags: U+;)
