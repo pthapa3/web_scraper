@@ -1,4 +1,0 @@
-Main-Class: Project08Test
-Sealed: true
-
-

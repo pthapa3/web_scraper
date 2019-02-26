@@ -1,3 +1,0 @@
-Main-Class: Project07Test
-Sealed: true
-

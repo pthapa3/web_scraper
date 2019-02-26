@@ -1,2 +1,0 @@
-Main-Class: Project04Test
-Sealed: true
